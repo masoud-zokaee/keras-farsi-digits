@@ -5,7 +5,7 @@ Training deep learning models with Persian and English digits data set using ker
 ## Project description
 
 Implementing deep CNN models using keras to perform classification task on 
-Persian digits data set (aka Hoda) and English digits data set ( MNIST ).
+Persian digits data set ( aka Hoda ) and English digits data set ( MNIST ).
 
 First - Training the model to classify Farsi digits and using the same trained model
 ( with all weights, parameters and layers structure ) for the English data set.
